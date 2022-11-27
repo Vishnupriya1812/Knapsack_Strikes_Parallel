@@ -1,0 +1,1 @@
+# Knapsack_Strikes_Parallel
